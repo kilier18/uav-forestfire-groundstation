@@ -1,0 +1,7 @@
+# 运行界面与算法核心只需要这两项
+numpy>=1.22
+PyQt5>=5.15
+
+# 可选：接入真实视频流与 YOLOv8 权重时才安装
+# ultralytics>=8.2
+# opencv-python>=4.8
